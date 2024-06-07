@@ -1,0 +1,16 @@
+Blog Personal
+
+1. La pagina debe tener un Navbar, con 4 elementos, cada elemento deberá llevar a la sección del 
+documento correspondiente. 
+2. Debe tener una sección que incluya 5 cards, tres de ellas con imagen, nombre, descripción y 
+un botón de Ver Mas, y las dos restantes solo imagen y el nombre. 
+3. Debe tener una sección que incluya un formulario de registro y una tabla. 
+4. Debe tener una sección de preguntas frecuentes, en la cual utilice un Accordion (Minimo 3 
+ítems). 
+5. Hay una sección que es libre, en la cual usted decide el contenido para mostrar, puede utilizar 
+imágenes, Carousel, videos, alertas, mapas o cualquier otro elemento de Bootstrap. 
+6. Debe tener un Footer con la información que usted considere necesaria, pero debe tener el logo 
+de 5 redes sociales, las cuales al dar click sobre ellos lleven a la página principal de cada red 
+social. 
+Toda la página debe tener estilos, si lo ve necesario adicione estilos CSS a su proyecto. Recuerde que 
+cada sección deberá tener un id para que desde el Navbar se pueda acceder a ella.
